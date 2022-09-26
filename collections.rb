@@ -33,6 +33,6 @@ capitais[:sao_paulo]- meio de selecionar uma hash e verificar o seu valor associ
 capitais.size - verificar a quantidade de elementos dentro da chave
 
 INTERAÇÕES EM COLLECTIONS
-EACH : Percorre uma coleção de forma parecida ao for, porém, não sobrescrevendo o valor de variaveis fora da estrutura de repetição.
-MAP : Cria um  array baseando-se em valores de outro array existente.
-SELECT : Realiza uma coleção de elementos presentes em uma collection através de uma coleção pré definida. Traz como resultado somente os valores que passam nesta condição 
+EACH: Percorre uma coleção de forma parecida ao for, porém, não sobrescrevendo o valor de variaveis fora da estrutura de repetição.
+MAP: Cria um  array baseando-se em valores de outro array existente.
+SELECT: Realiza uma coleção de elementos presentes em uma collection através de uma coleção pré definida. Traz como resultado somente os valores que passam nesta condição 

@@ -1,0 +1,3 @@
+Ruby blocks como o Ruby Guides define, "são pequenas funções anônimas que podem ser passadas nos métodos". Podemos identificar Ruby Blocks quando vemos ou escrevemos no código comandos dentro dos do / end ou entre chaves {block} e os argumentos vão dentro de pipes |args|. Métodos famosos como o .each, .times e outros são bons exemplos de Blocks.
+LAMBDA: São similares aos Blokcs, mas podem ser SALVAS EM VARIAVEIS para serem reutilizadas.
+As LAMBDA estão relacionadas aos proc
